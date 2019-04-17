@@ -21,9 +21,7 @@ With serverless: -
 - We don't reserve or scale servers or containers, instead they are scaled automatically and transparently for us.
 - We don't pay for fixed resources, instead we pay for what we actually use (e.g. execution time).
 
-**Serverless can provide more scalable, affordable and reliable architectures for less effort.**
-
-<sup>[See more](https://bref.sh/docs/).</sup><br>
+**Serverless can provide more scalable, affordable and reliable architectures for less effort.** <sup>[See more](https://bref.sh/docs/).</sup><br>
 
 # Lambda Functions
 
