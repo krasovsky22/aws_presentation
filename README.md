@@ -15,7 +15,8 @@
 ## Why ServerLess
 
 Serverless replaces the traditional approaches to running applications.
-With serverless: -
+
+With serverless:
 
 - We don't manage, update, configure, provision servers or containers,
 - We don't reserve or scale servers or containers, instead they are scaled automatically and transparently for us.
